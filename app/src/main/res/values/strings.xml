@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpinnerDataPass</string>
+    <string-array name="makeup_product_string">
+        <item>Eyes</item>
+        <item>Face</item>
+        <item>Lips</item>
+        <item>Hair</item>
+    </string-array>
+</resources>
